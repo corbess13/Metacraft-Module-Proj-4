@@ -27,7 +27,7 @@ The contract is already deployed to Avalanche Fuji Testnet. **The address of the
 
 ## Authors
 
-Carl Eric Doromal
+Matthew Raphael Corbe
 
 
 ## License
